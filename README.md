@@ -17,7 +17,8 @@
 </div>
 <br>
     
-  
+  ![preview](https://github.com/harsh160311/Codeclause_youtube_clone/assets/82533066/876c8a35-0459-40d1-9beb-702e5bf366f0)
+
 
 ---
 
