@@ -6,10 +6,10 @@
   </a>
 <h1> YouTube Front-End Clone
 </h1>
-<a href=" ">Visit the Website »</a>
+<a href=" https://harsh160311.github.io/Codeclause_youtube_clone/">Visit the Website »</a>
 <br >
   <br>
-<a href=" ">View Live Demo</a>
+<a href=" https://harsh160311.github.io/Codeclause_youtube_clone/">View Live Demo</a>
 ·
 
   </p>
