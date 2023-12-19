@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/YourUsername/YouTube-Clone">
-    <img src="![image](https://github.com/harsh160311/Codeclause_youtube_clone/assets/82533066/46773561-5067-49a6-a7a7-d183e4478099)"
+    <img src="https://github.com/harsh160311/Codeclause_youtube_clone/blob/main/Assets/icons/YouTube.png"
  alt="Logo" height="50">
   </a>
 <h1> YouTube Front-End Clone
