@@ -16,9 +16,7 @@
   </p>
 </div>
 <br>
-    <img src="![274047272-04041585-7d3f-4b4d-b8ee-5d78ca766ba6](https://github.com/harsh160311/Codeclause_youtube_clone/assets/82533066/b57683f4-6abc-4027-85b9-85b5664e2652)
-"
- >
+    
   
 
 ---
