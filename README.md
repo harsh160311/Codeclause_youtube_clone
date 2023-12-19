@@ -34,10 +34,7 @@ Feel free to explore and contribute to enhance the project further!
 ---
 
 ## Technologies Utilized
-
-![icons8-html-48]
-
-![icons8-css-48]
-
+![Html](https://github.com/harsh160311/Codeclause_youtube_clone/assets/82533066/f5392d61-96e8-451d-bec7-2ca69db0e7de)
+![Css](https://github.com/harsh160311/Codeclause_youtube_clone/assets/82533066/f4735696-84bc-40f3-ac19-510c2b0b1b1c)
 - HTML
 - CSS
